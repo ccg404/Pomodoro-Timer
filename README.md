@@ -19,4 +19,4 @@ A web browser is all you need to run this project.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pomodoro-timer.git
+   git clone https://github.com/ccg404/Pomodoro-Timer.git
